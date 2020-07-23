@@ -4,9 +4,9 @@
 const me = {
     language: 'JavaScript',
     library: 'React',
-    interests: 'dev tooling and sharing knowledge',
+    interests: ['dev tooling', 'sharing knowledge', 'UI and UX design'],
     maintaining: '@trending_repos',
-    overusing:  'GIFs',
+    overusing_gifs: true,
 }
 ```
 

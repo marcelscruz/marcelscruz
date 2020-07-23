@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```js
+const me = {
+    writing: 'JavaScript',
+    learning: 'UI design',
+    maintaining: '@trending_repos',
+    sharing: 'dev tips',
+    overusing:  'GIFs',
+}
+```
+
 <!--
 **marcelscruz/marcelscruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

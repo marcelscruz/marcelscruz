@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Marcel, a full-stack web developer.
 
 ```js
 const me = {

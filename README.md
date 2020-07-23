@@ -2,10 +2,10 @@
 
 ```js
 const me = {
-    writing: 'JavaScript',
-    learning: 'UI design',
+    language: 'JavaScript',
+    library: 'React',
+    interests: 'dev tooling and sharing knowledge',
     maintaining: '@trending_repos',
-    sharing: 'dev tips',
     overusing:  'GIFs',
 }
 ```

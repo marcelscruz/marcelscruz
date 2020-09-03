@@ -1,4 +1,4 @@
-# Hi, I'm Marcel, a full-stack web developer.
+# Hi, I'm Marcel, a full-stack developer.
 
 ```js
 const me = {

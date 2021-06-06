@@ -1,4 +1,4 @@
-[![Marcel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelscruz&show_icons=true)](https://github.com/marcelscruz)
+[![Marcel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelscruz&show_icons=true&count_private=true)](https://github.com/marcelscruz)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelscruz&" alt="Marcel Cruz" /></p>
 
